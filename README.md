@@ -5,8 +5,7 @@
 <p align="center">"beneath the starlight of the heavens"</p>
 
 - website: https://xorycode.dev c:
-- current project: mgs ^_^
-- currently learning: how to do more c++ stuff :D
+- current project: cynewave ^_^
 
 pc (void spear block 20) specs:
 - ryzen 7 5700x
