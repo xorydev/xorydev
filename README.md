@@ -5,7 +5,7 @@
 <p align="center">"beneath the starlight of the heavens"</p>
 
 - website: https://xorycode.dev c:
-- current project: cynewave ^_^
+- current project: anything and everything ^_^
 
 pc (void spear block 20) specs:
 - ryzen 7 5700x
