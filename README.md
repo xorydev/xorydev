@@ -12,7 +12,7 @@ pc (void spear block 20) specs:
 - 32gb ddr4 @ 3600mhz
 - rtx 3060 12gb
 
-laptop (wildcat): lenovo thinkpad t450 (soon to be replaced with a surface pro 11) >_>
+laptop (satelite): dynabook satelite pro c50h-11b >_>
 
 <h1 align="center">projects im proud of:</h1>
 
